@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026101921262494IJ1V</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261019212624EWGUFT</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.5</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value> Estrategia didáctica basada en experimentación mediante actividades prácticas y ejemplos de la vida cotidiana para fortalecer la comprensión del contenido propiedades de la luz en la unidad III: Óptica geométrica.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1792463998429</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>e755f4eb-e312-4486-9c09-ea6a66de5b30</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>e755f4eb-e312-4486-9c09-ea6a66de5b30</odePageId>
+      <odeBlockId>block-mvg2tlnw-3t83xmfar</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>e755f4eb-e312-4486-9c09-ea6a66de5b30</odePageId>
+          <odeBlockId>block-mvg2tlnw-3t83xmfar</odeBlockId>
+          <odeIdeviceId>idevice-1792464061673-7jzxli4bz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/WhatsApp Image 2026-10-19 at 8.43.57 PM (1).jpeg" width="720" height="936" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792464061673-7jzxli4bz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/WhatsApp Image 2026-10-19 at 8.43.57 PM (1).jpeg\" width=\"720\" height=\"936\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvg358u9-ycqduh318</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Referente Metodológico  </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Referente Metodológico  </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvg358u9-ycqduh318</odePageId>
+      <odeBlockId>block-mvg35zkj-r10lgqazq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvg358u9-ycqduh318</odePageId>
+          <odeBlockId>block-mvg35zkj-r10lgqazq</odeBlockId>
+          <odeIdeviceId>idevice-1792464639570-1cqw0qgip</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Concepto de metodologías activas<br />Las metodologías activas son estrategias que permiten desarrollar un aprendizaje participativo y relevante para los alumnos que aprenden a través de su experiencia. Suelen integrarse en procesos en los cuales los alumnos “aprenden a aprender”. Mediante diversos formatos como pueden ser debates, proyectos, resolución de problemas o cuestionarios interactivos, entre otros muchos, el proceso de enseñanza se articula gracias a actividades estimulantes que se centran en el desarrollo de una determinada disciplina para que el alumno adquiera competencias y habilidades preseleccionadas. </p>
+<p>De esta forma, el alumno se prepara para resolver cuestiones de la vida cotidiana cada vez más complejas a medida que va avanzando en su formación.  Este tipo de prácticas alimentan el interés del alumno por la exploración e investigación, ya que al buscar soluciones o superar desafíos basados en problemas reales, es decir al participar en experiencias significativas, los estudiantes se encuentran más predispuestos a la crítica y la reflexión. (Vea, 2025)</p>
+<p>Tipos de metodologías activas<br />Según Lobo(2025) existen un amplio abanico de tipos de metodologías activas. No son excluyentes y a menudo se combinan. Lo cual presenta algunas de las más conocidas y efectivas, con ejemplos prácticos.</p>
+<p>v Aprendizaje Basado en Problemas </p>
+<p>En el aprendizaje basado en problemas, el punto de partida es un problema abierto, complejo y relevante. Los estudiantes, en grupos, deben investigar y utilizar sus conocimientos para formular una solución viable.</p>
+<p>Ejemplo: En Biología, en lugar de explicar el sistema inmunológico, el docente presenta el caso de un paciente con síntomas confusos. Los estudiantes deben investigar posibles enfermedades, pruebas diagnósticas y tratamientos, aprendiendo los conceptos del temario en el proceso de resolver el caso.</p>
+<p> </p>
+<p> </p>
+<p>v Aprendizaje Basado en Proyectos</p>
+<p>Similar al anterior, pero el objetivo final es la creación de un producto o servicio concreto que responde a una necesidad o pregunta desafiante. Es ideal para proyectos interdisciplinarios.</p>
+<p>Ejemplo: En Ciencias Sociales, la pregunta guía podría ser “¿Cómo podemos mejorar la gestión de residuos en nuestra escuela?”. Los estudiantes investigan el problema, diseñan una campaña de concienciación (el producto), la implementan y miden su impacto.</p>
+<p>v Clase Invertida (Flipped Classroom)</p>
+<p>Este modelo invierte los momentos tradicionales del aprendizaje. Los estudiantes reciben la información teórica (a través de videos o lecturas) en casa, y el tiempo de clase se dedica a resolver dudas, trabajar en proyectos y realizar actividades prácticas con la guía del docente.</p>
+<p>Ejemplo: En Matemáticas, el docente graba un video corto explicando un nuevo tipo de ecuación. Los estudiantes lo ven en casa y en clase se dedican a resolver ejercicios en grupo, mientras el profesor circula para ayudar a quienes tienen dificultades. Más información en nuestro artículo sobre flipped classroom.</p>
+<p>v Aprendizaje Cooperativo</p>
+<p>No se trata solo de sentar a los estudiantes en grupo. El aprendizaje cooperativo implica una estructura de trabajo con interdependencia positiva (todos se necesitan para tener éxito), responsabilidad individual y grupal, y el desarrollo de habilidades sociales.</p>
+<p>Ejemplo: Utilizando la técnica del “rompecabezas” (Jigsaw), se divide un tema en varias partes. Cada miembro de un equipo se convierte en “experto” de una parte y luego regresa a su equipo original para enseñársela a los demás.</p>
+<p>v Gamificación</p>
+<p>La gamificación consiste en aplicar elementos y mecánicas de juego (puntos, niveles, insignias, narrativas) en el contexto del aula para aumentar la motivación y el compromiso. No es jugar por jugar, sino utilizar la lógica del juego para alcanzar objetivos de aprendizaje.</p>
+<p> </p>
+<p>Ejemplo: Crear un “viaje del héroe” para el curso de Literatura, donde los estudiantes ganan “puntos de experiencia” por leer libros, completar análisis y superar “misiones” (reseñas, debates), subiendo de nivel a lo largo del año.</p>
+<p>v Pensamiento de Diseño</p>
+<p>Este enfoque, importado del mundo de la innovación y el diseño, propone un proceso estructurado para resolver problemas de forma creativa, poniendo siempre las necesidades humanas en el centro. El pensamiento de diseño convierte a los estudiantes en ‘diseñadores’ de soluciones para desafíos reales de su entorno, siguiendo un ciclo de cinco fases: empatizar, definir, idear, prototipar y testear.</p>
+<p>Ejemplo: Ante el desafío ‘¿Cómo podríamos hacer que la biblioteca sea un lugar más atractivo para los estudiantes?’, los equipos entrevistan a sus compañeros (empatizar), concluyen que el problema es el ambiente poco acogedor (definir), proponen ideas como crear un ‘rincón de lectura con pufs’ o una sección de cómics (idear), dibujan un plano o hacen una maqueta de la nueva distribución (prototipar) y se la presentan a otros alumnos para recibir sugerencias (testear).</p>
+<p>v Aprendizaje-Servicio </p>
+<p>Esta es quizás una de las metodologías activas más completas y transformadoras, ya que fusiona el aprendizaje curricular con un servicio real a la comunidad. El aprendizaje-servicio va un paso más allá del aula para que los estudiantes apliquen sus conocimientos y habilidades en la resolución de una necesidad social de su entorno. La clave es su doble objetivo: lograr un aprendizaje significativo y, al mismo tiempo, generar un impacto positivo en la comunidad.</p>
+<p>Ejemplo: Estudiantes de secundaria, dentro de la asignatura de Tecnología, aprenden sobre diseño e impresión 3D y utilizan esos conocimientos para crear y donar prótesis de mano de bajo coste a personas que las necesitan, colaborando con ONGs especializadas.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>v Estaciones de Aprendizaje</p>
+<p>El aula se organiza en diferentes “estaciones” o rincones. Cada estación ofrece una actividad diferente sobre el mismo tema, y los estudiantes rotan por ellas en pequeños grupos. Permite trabajar un concepto desde múltiples perspectivas y con diferentes tipos de tareas.</p>
+<p>Ejemplo: Para estudiar el Antiguo Egipto, una estación podría tener textos para analizar, otro material para construir una pirámide a escala, una tercera un juego de ordenador sobre jeroglíficos y una cuarta un video documental.</p>
+<p>v Técnicas de Pensamiento Visible </p>
+<p>Desarrolladas por el Proyecto Cero de Harvard, son rutinas de pensamiento sencillas que ayudan a los estudiantes a exteriorizar, organizar y reflexionar sobre sus ideas. Convierten el pensamiento, que es invisible, en algo concreto y visible.</p>
+<p>Ejemplo: Al final de una clase, usar la rutina “Antes pensaba… Ahora pienso…”. Los estudiantes escriben en una nota adhesiva cómo ha cambiado su comprensión sobre un tema, lo que permite al docente evaluar el aprendizaje. Descubre más sobre el pensamiento visible.</p>
+<p>Como estas metodologías activas se relacionan con nuestro trabajo<br />1. Aprendizaje Basado en Problemas</p>
+<p>Esta metodología se relaciona con nuestro trabajo porque permite presentar a los estudiantes situaciones o problemas relacionados con las propiedades de la luz que pueden encontrar en su vida cotidiana. A partir de estas situaciones, los estudiantes pueden analizar lo que ocurre, plantear posibles explicaciones y utilizar los conocimientos adquiridos para encontrar una respuesta.</p>
+<p>Por ejemplo, se puede presentar una situación como: ¿por qué podemos observar nuestro rostro en un espejo? o ¿por qué un objeto parece cambiar de posición cuando lo observamos dentro de un recipiente con agua? De esta manera, el estudiante no solamente recibe la explicación del docente, sino que tiene la oportunidad de analizar y comprender el fenómeno.</p>
+<p>Lo cual tiene relación con nuestra estrategia porque permite utilizar los ejemplos de la vida cotidiana como punto de partida para comprender las propiedades de la luz.</p>
+<p>2. Aprendizaje Basado en Proyectos</p>
+<p>También puede relacionarse con nuestro trabajo porque permite que los estudiantes desarrollen actividades prácticas durante un período determinado y elaboren un producto o resultado final. En Óptica Geométrica podrían realizar un pequeño proyecto relacionado con alguna propiedad de la luz, utilizando materiales sencillos y disponibles en su entorno.</p>
+<p>Por ejemplo, pueden construir un recurso o modelo que les permita observar un fenómeno relacionado con la luz y posteriormente explicar qué propiedad está presente y cómo se produce.</p>
+<p>Lo cual tiene relación con nuestra estrategia porque favorece directamente la realización de actividades prácticas, permitiendo que los estudiantes aprendan mediante la experimentación y la elaboración de productos.</p>
+<p>3. Aprendizaje cooperativo</p>
+<p>Esta metodología tiene una relación importante con nuestro trabajo porque las actividades prácticas pueden realizarse en pequeños grupos. Los estudiantes pueden organizarse para realizar experimentos, observar los resultados, registrar información y posteriormente compartir sus conclusiones.</p>
+<p>Por ejemplo, mientras algunos estudiantes realizan el experimento, otros pueden encargarse de observar, registrar los resultados y explicar lo ocurrido. De esta manera, todos participan en el proceso de aprendizaje.</p>
+<p>Lo cual tiene relación con nuestra estrategia porque facilita el desarrollo de las actividades prácticas y experimentales, además de promover la participación, la comunicación y el intercambio de ideas.</p>
+<p>4. Estaciones de aprendizaje</p>
+<p>Esta metodología también puede ser útil para nuestro trabajo porque permite organizar diferentes actividades relacionadas con las propiedades de la luz. Cada estación puede presentar una actividad diferente, pero todas deben estar relacionadas con el mismo contenido.</p>
+<p>Por ejemplo, una estación puede estar destinada a observar la reflexión de la luz, otra a analizar la refracción, otra a resolver ejercicios y otra a relacionar los fenómenos observados con situaciones de la vida cotidiana.</p>
+<p>Lo cual tiene relación con nuestra estrategia porque permite incorporar varias actividades prácticas y ejemplos cotidianos dentro de una misma clase, haciendo que los estudiantes tengan diferentes formas de acercarse al contenido.</p>
+<p>5. Técnicas de pensamiento visible</p>
+<p>Esta estrategia puede complementarse porque permiten conocer qué saben los estudiantes antes de iniciar el contenido y qué lograron comprender después de realizar las actividades prácticas. Se pueden utilizar preguntas, esquemas, mapas conceptuales o cuadros para que los estudiantes expresen sus ideas.</p>
+<p>Por ejemplo, antes de realizar un experimento se puede preguntar: ¿qué creen que sucederá con la luz? Después de realizarlo, pueden explicar qué ocurrió y comparar sus ideas iniciales con lo que observaron.</p>
+<p>Lo cual tiene relación con nuestra estrategia porque ayuda a que los estudiantes reflexionen sobre las actividades prácticas y relacionen lo observado con los conceptos científicos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792464639570-1cqw0qgip","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Concepto de metodologías activas<br />Las metodologías activas son estrategias que permiten desarrollar un aprendizaje participativo y relevante para los alumnos que aprenden a través de su experiencia. Suelen integrarse en procesos en los cuales los alumnos “aprenden a aprender”. Mediante diversos formatos como pueden ser debates, proyectos, resolución de problemas o cuestionarios interactivos, entre otros muchos, el proceso de enseñanza se articula gracias a actividades estimulantes que se centran en el desarrollo de una determinada disciplina para que el alumno adquiera competencias y habilidades preseleccionadas. </p>\n<p>De esta forma, el alumno se prepara para resolver cuestiones de la vida cotidiana cada vez más complejas a medida que va avanzando en su formación.  Este tipo de prácticas alimentan el interés del alumno por la exploración e investigación, ya que al buscar soluciones o superar desafíos basados en problemas reales, es decir al participar en experiencias significativas, los estudiantes se encuentran más predispuestos a la crítica y la reflexión. (Vea, 2025)</p>\n<p>Tipos de metodologías activas<br />Según Lobo(2025) existen un amplio abanico de tipos de metodologías activas. No son excluyentes y a menudo se combinan. Lo cual presenta algunas de las más conocidas y efectivas, con ejemplos prácticos.</p>\n<p>v Aprendizaje Basado en Problemas </p>\n<p>En el aprendizaje basado en problemas, el punto de partida es un problema abierto, complejo y relevante. Los estudiantes, en grupos, deben investigar y utilizar sus conocimientos para formular una solución viable.</p>\n<p>Ejemplo: En Biología, en lugar de explicar el sistema inmunológico, el docente presenta el caso de un paciente con síntomas confusos. Los estudiantes deben investigar posibles enfermedades, pruebas diagnósticas y tratamientos, aprendiendo los conceptos del temario en el proceso de resolver el caso.</p>\n<p> </p>\n<p> </p>\n<p>v Aprendizaje Basado en Proyectos</p>\n<p>Similar al anterior, pero el objetivo final es la creación de un producto o servicio concreto que responde a una necesidad o pregunta desafiante. Es ideal para proyectos interdisciplinarios.</p>\n<p>Ejemplo: En Ciencias Sociales, la pregunta guía podría ser “¿Cómo podemos mejorar la gestión de residuos en nuestra escuela?”. Los estudiantes investigan el problema, diseñan una campaña de concienciación (el producto), la implementan y miden su impacto.</p>\n<p>v Clase Invertida (Flipped Classroom)</p>\n<p>Este modelo invierte los momentos tradicionales del aprendizaje. Los estudiantes reciben la información teórica (a través de videos o lecturas) en casa, y el tiempo de clase se dedica a resolver dudas, trabajar en proyectos y realizar actividades prácticas con la guía del docente.</p>\n<p>Ejemplo: En Matemáticas, el docente graba un video corto explicando un nuevo tipo de ecuación. Los estudiantes lo ven en casa y en clase se dedican a resolver ejercicios en grupo, mientras el profesor circula para ayudar a quienes tienen dificultades. Más información en nuestro artículo sobre flipped classroom.</p>\n<p>v Aprendizaje Cooperativo</p>\n<p>No se trata solo de sentar a los estudiantes en grupo. El aprendizaje cooperativo implica una estructura de trabajo con interdependencia positiva (todos se necesitan para tener éxito), responsabilidad individual y grupal, y el desarrollo de habilidades sociales.</p>\n<p>Ejemplo: Utilizando la técnica del “rompecabezas” (Jigsaw), se divide un tema en varias partes. Cada miembro de un equipo se convierte en “experto” de una parte y luego regresa a su equipo original para enseñársela a los demás.</p>\n<p>v Gamificación</p>\n<p>La gamificación consiste en aplicar elementos y mecánicas de juego (puntos, niveles, insignias, narrativas) en el contexto del aula para aumentar la motivación y el compromiso. No es jugar por jugar, sino utilizar la lógica del juego para alcanzar objetivos de aprendizaje.</p>\n<p> </p>\n<p>Ejemplo: Crear un “viaje del héroe” para el curso de Literatura, donde los estudiantes ganan “puntos de experiencia” por leer libros, completar análisis y superar “misiones” (reseñas, debates), subiendo de nivel a lo largo del año.</p>\n<p>v Pensamiento de Diseño</p>\n<p>Este enfoque, importado del mundo de la innovación y el diseño, propone un proceso estructurado para resolver problemas de forma creativa, poniendo siempre las necesidades humanas en el centro. El pensamiento de diseño convierte a los estudiantes en ‘diseñadores’ de soluciones para desafíos reales de su entorno, siguiendo un ciclo de cinco fases: empatizar, definir, idear, prototipar y testear.</p>\n<p>Ejemplo: Ante el desafío ‘¿Cómo podríamos hacer que la biblioteca sea un lugar más atractivo para los estudiantes?’, los equipos entrevistan a sus compañeros (empatizar), concluyen que el problema es el ambiente poco acogedor (definir), proponen ideas como crear un ‘rincón de lectura con pufs’ o una sección de cómics (idear), dibujan un plano o hacen una maqueta de la nueva distribución (prototipar) y se la presentan a otros alumnos para recibir sugerencias (testear).</p>\n<p>v Aprendizaje-Servicio </p>\n<p>Esta es quizás una de las metodologías activas más completas y transformadoras, ya que fusiona el aprendizaje curricular con un servicio real a la comunidad. El aprendizaje-servicio va un paso más allá del aula para que los estudiantes apliquen sus conocimientos y habilidades en la resolución de una necesidad social de su entorno. La clave es su doble objetivo: lograr un aprendizaje significativo y, al mismo tiempo, generar un impacto positivo en la comunidad.</p>\n<p>Ejemplo: Estudiantes de secundaria, dentro de la asignatura de Tecnología, aprenden sobre diseño e impresión 3D y utilizan esos conocimientos para crear y donar prótesis de mano de bajo coste a personas que las necesitan, colaborando con ONGs especializadas.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>v Estaciones de Aprendizaje</p>\n<p>El aula se organiza en diferentes “estaciones” o rincones. Cada estación ofrece una actividad diferente sobre el mismo tema, y los estudiantes rotan por ellas en pequeños grupos. Permite trabajar un concepto desde múltiples perspectivas y con diferentes tipos de tareas.</p>\n<p>Ejemplo: Para estudiar el Antiguo Egipto, una estación podría tener textos para analizar, otro material para construir una pirámide a escala, una tercera un juego de ordenador sobre jeroglíficos y una cuarta un video documental.</p>\n<p>v Técnicas de Pensamiento Visible </p>\n<p>Desarrolladas por el Proyecto Cero de Harvard, son rutinas de pensamiento sencillas que ayudan a los estudiantes a exteriorizar, organizar y reflexionar sobre sus ideas. Convierten el pensamiento, que es invisible, en algo concreto y visible.</p>\n<p>Ejemplo: Al final de una clase, usar la rutina “Antes pensaba… Ahora pienso…”. Los estudiantes escriben en una nota adhesiva cómo ha cambiado su comprensión sobre un tema, lo que permite al docente evaluar el aprendizaje. Descubre más sobre el pensamiento visible.</p>\n<p>Como estas metodologías activas se relacionan con nuestro trabajo<br />1. Aprendizaje Basado en Problemas</p>\n<p>Esta metodología se relaciona con nuestro trabajo porque permite presentar a los estudiantes situaciones o problemas relacionados con las propiedades de la luz que pueden encontrar en su vida cotidiana. A partir de estas situaciones, los estudiantes pueden analizar lo que ocurre, plantear posibles explicaciones y utilizar los conocimientos adquiridos para encontrar una respuesta.</p>\n<p>Por ejemplo, se puede presentar una situación como: ¿por qué podemos observar nuestro rostro en un espejo? o ¿por qué un objeto parece cambiar de posición cuando lo observamos dentro de un recipiente con agua? De esta manera, el estudiante no solamente recibe la explicación del docente, sino que tiene la oportunidad de analizar y comprender el fenómeno.</p>\n<p>Lo cual tiene relación con nuestra estrategia porque permite utilizar los ejemplos de la vida cotidiana como punto de partida para comprender las propiedades de la luz.</p>\n<p>2. Aprendizaje Basado en Proyectos</p>\n<p>También puede relacionarse con nuestro trabajo porque permite que los estudiantes desarrollen actividades prácticas durante un período determinado y elaboren un producto o resultado final. En Óptica Geométrica podrían realizar un pequeño proyecto relacionado con alguna propiedad de la luz, utilizando materiales sencillos y disponibles en su entorno.</p>\n<p>Por ejemplo, pueden construir un recurso o modelo que les permita observar un fenómeno relacionado con la luz y posteriormente explicar qué propiedad está presente y cómo se produce.</p>\n<p>Lo cual tiene relación con nuestra estrategia porque favorece directamente la realización de actividades prácticas, permitiendo que los estudiantes aprendan mediante la experimentación y la elaboración de productos.</p>\n<p>3. Aprendizaje cooperativo</p>\n<p>Esta metodología tiene una relación importante con nuestro trabajo porque las actividades prácticas pueden realizarse en pequeños grupos. Los estudiantes pueden organizarse para realizar experimentos, observar los resultados, registrar información y posteriormente compartir sus conclusiones.</p>\n<p>Por ejemplo, mientras algunos estudiantes realizan el experimento, otros pueden encargarse de observar, registrar los resultados y explicar lo ocurrido. De esta manera, todos participan en el proceso de aprendizaje.</p>\n<p>Lo cual tiene relación con nuestra estrategia porque facilita el desarrollo de las actividades prácticas y experimentales, además de promover la participación, la comunicación y el intercambio de ideas.</p>\n<p>4. Estaciones de aprendizaje</p>\n<p>Esta metodología también puede ser útil para nuestro trabajo porque permite organizar diferentes actividades relacionadas con las propiedades de la luz. Cada estación puede presentar una actividad diferente, pero todas deben estar relacionadas con el mismo contenido.</p>\n<p>Por ejemplo, una estación puede estar destinada a observar la reflexión de la luz, otra a analizar la refracción, otra a resolver ejercicios y otra a relacionar los fenómenos observados con situaciones de la vida cotidiana.</p>\n<p>Lo cual tiene relación con nuestra estrategia porque permite incorporar varias actividades prácticas y ejemplos cotidianos dentro de una misma clase, haciendo que los estudiantes tengan diferentes formas de acercarse al contenido.</p>\n<p>5. Técnicas de pensamiento visible</p>\n<p>Esta estrategia puede complementarse porque permiten conocer qué saben los estudiantes antes de iniciar el contenido y qué lograron comprender después de realizar las actividades prácticas. Se pueden utilizar preguntas, esquemas, mapas conceptuales o cuadros para que los estudiantes expresen sus ideas.</p>\n<p>Por ejemplo, antes de realizar un experimento se puede preguntar: ¿qué creen que sucederá con la luz? Después de realizarlo, pueden explicar qué ocurrió y comparar sus ideas iniciales con lo que observaron.</p>\n<p>Lo cual tiene relación con nuestra estrategia porque ayuda a que los estudiantes reflexionen sobre las actividades prácticas y relacionen lo observado con los conceptos científicos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvg3i9ur-pbu5woxsh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Orientaciones metodológicas </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Orientaciones metodológicas </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvg3i9ur-pbu5woxsh</odePageId>
+      <odeBlockId>block-mvg3ic5k-8ske47ldq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvg3i9ur-pbu5woxsh</odePageId>
+          <odeBlockId>block-mvg3ic5k-8ske47ldq</odeBlockId>
+          <odeIdeviceId>idevice-1792465215750-25wrp7kdr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El desarrollo de la unidad didáctica se llevará a cabo mediante actividades prácticas y experimentales que permitan a los estudiantes relacionar los contenidos sobre las propiedades de la luz con situaciones de la vida cotidiana. Las actividades estarán orientadas a favorecer la participación activa, la observación, la experimentación y la construcción de aprendizajes a partir de experiencias concretas.</p>
+<p>Los estudiantes se organizarán en parejas para realizar los diferentes experimentos propuestos. Antes de iniciar cada actividad, el docente explicará de manera clara las instrucciones, los materiales que se utilizarán y las medidas necesarias para desarrollar el experimento adecuadamente. Asimismo, se plantearán preguntas iniciales para conocer las ideas previas de los estudiantes y motivarlos a anticipar qué podría ocurrir durante la experiencia.</p>
+<p>Posteriormente, las parejas realizarán el experimento siguiendo las orientaciones proporcionadas por el docente. Durante este proceso, los estudiantes observarán los fenómenos relacionados con las propiedades de la luz, intercambiarán ideas con su compañero, identificarán los resultados obtenidos y registrarán sus observaciones. El docente acompañará el desarrollo de las actividades, resolverá dudas y formulará preguntas que permitan a los estudiantes reflexionar sobre lo que están observando.</p>
+<p>Una vez finalizado cada experimento, los estudiantes responderán preguntas relacionadas con la experiencia realizada. Para esta actividad se utilizará la herramienta digital Kahoot, con el propósito de favorecer una participación dinámica e interactiva y, al mismo tiempo, comprobar el nivel de comprensión alcanzado. Las preguntas estarán relacionadas con los fenómenos observados, los conceptos estudiados y su aplicación en situaciones de la vida cotidiana.</p>
+<p>Después de responder las preguntas, el docente realizará una retroalimentación de las respuestas, aclarando posibles errores o dudas y reforzando los conceptos que presenten mayor dificultad. Se promoverá que los estudiantes expliquen con sus propias palabras por qué se producen los fenómenos observados y que relacionen los resultados experimentales con las propiedades de la luz estudiadas.</p>
+<p>Los recursos y materiales utilizados dependerán de las características de cada experimento y estarán orientados a facilitar la observación y comprensión de los fenómenos relacionados con la luz. Se podrán utilizar materiales de uso cotidiano, recursos tecnológicos y la herramienta digital Kahoot para el desarrollo de las preguntas y la retroalimentación.</p>
+<p>Durante todo el proceso, el docente asumirá el papel de orientador y facilitador del aprendizaje, proporcionando instrucciones, planteando preguntas, acompañando el trabajo en parejas, aclarando dudas y brindando retroalimentación. Por su parte, los estudiantes tendrán un papel activo en su aprendizaje, participando en los experimentos, realizando observaciones, intercambiando ideas, registrando resultados, respondiendo preguntas y relacionando las experiencias prácticas con los conceptos científicos estudiados.</p>
+<p>De esta manera, las orientaciones metodológicas permitirán que los contenidos sobre las propiedades de la luz sean abordados de forma práctica, participativa y contextualizada, favoreciendo que los estudiantes no se limiten a memorizar conceptos, sino que puedan comprenderlos mediante la experimentación y su relación con situaciones de la vida cotidiana.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792465215750-25wrp7kdr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El desarrollo de la unidad didáctica se llevará a cabo mediante actividades prácticas y experimentales que permitan a los estudiantes relacionar los contenidos sobre las propiedades de la luz con situaciones de la vida cotidiana. Las actividades estarán orientadas a favorecer la participación activa, la observación, la experimentación y la construcción de aprendizajes a partir de experiencias concretas.</p>\n<p>Los estudiantes se organizarán en parejas para realizar los diferentes experimentos propuestos. Antes de iniciar cada actividad, el docente explicará de manera clara las instrucciones, los materiales que se utilizarán y las medidas necesarias para desarrollar el experimento adecuadamente. Asimismo, se plantearán preguntas iniciales para conocer las ideas previas de los estudiantes y motivarlos a anticipar qué podría ocurrir durante la experiencia.</p>\n<p>Posteriormente, las parejas realizarán el experimento siguiendo las orientaciones proporcionadas por el docente. Durante este proceso, los estudiantes observarán los fenómenos relacionados con las propiedades de la luz, intercambiarán ideas con su compañero, identificarán los resultados obtenidos y registrarán sus observaciones. El docente acompañará el desarrollo de las actividades, resolverá dudas y formulará preguntas que permitan a los estudiantes reflexionar sobre lo que están observando.</p>\n<p>Una vez finalizado cada experimento, los estudiantes responderán preguntas relacionadas con la experiencia realizada. Para esta actividad se utilizará la herramienta digital Kahoot, con el propósito de favorecer una participación dinámica e interactiva y, al mismo tiempo, comprobar el nivel de comprensión alcanzado. Las preguntas estarán relacionadas con los fenómenos observados, los conceptos estudiados y su aplicación en situaciones de la vida cotidiana.</p>\n<p>Después de responder las preguntas, el docente realizará una retroalimentación de las respuestas, aclarando posibles errores o dudas y reforzando los conceptos que presenten mayor dificultad. Se promoverá que los estudiantes expliquen con sus propias palabras por qué se producen los fenómenos observados y que relacionen los resultados experimentales con las propiedades de la luz estudiadas.</p>\n<p>Los recursos y materiales utilizados dependerán de las características de cada experimento y estarán orientados a facilitar la observación y comprensión de los fenómenos relacionados con la luz. Se podrán utilizar materiales de uso cotidiano, recursos tecnológicos y la herramienta digital Kahoot para el desarrollo de las preguntas y la retroalimentación.</p>\n<p>Durante todo el proceso, el docente asumirá el papel de orientador y facilitador del aprendizaje, proporcionando instrucciones, planteando preguntas, acompañando el trabajo en parejas, aclarando dudas y brindando retroalimentación. Por su parte, los estudiantes tendrán un papel activo en su aprendizaje, participando en los experimentos, realizando observaciones, intercambiando ideas, registrando resultados, respondiendo preguntas y relacionando las experiencias prácticas con los conceptos científicos estudiados.</p>\n<p>De esta manera, las orientaciones metodológicas permitirán que los contenidos sobre las propiedades de la luz sean abordados de forma práctica, participativa y contextualizada, favoreciendo que los estudiantes no se limiten a memorizar conceptos, sino que puedan comprenderlos mediante la experimentación y su relación con situaciones de la vida cotidiana.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvg3lwlz-k42m01eq5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Uso Especifico de la herramienta Kahoot</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso Especifico de la herramienta Kahoot</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvg3lwlz-k42m01eq5</odePageId>
+      <odeBlockId>block-mvg3lyfj-ylyfavbai</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvg3lwlz-k42m01eq5</odePageId>
+          <odeBlockId>block-mvg3lyfj-ylyfavbai</odeBlockId>
+          <odeIdeviceId>idevice-1792465384590-fsml1zen7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El valor didáctico de Kahoot reside en su capacidad para promover un aprendizaje activo y participativo, donde los alumnos dejan de ser receptores pasivos para interactuar con el contenido. Al integrar elementos de competencia y reconocimiento, la herramienta ayuda a desarrollar habilidades transversales como la rapidez mental, la atención sostenida y la toma de decisiones. Su flexibilidad es otra de sus fortalezas, pues se adapta con éxito a clases presenciales, entornos en línea o estudio autónomo.</p>
+<p>Kahoot se consolida como una herramienta de gran valor educativo cuando se utiliza para repasar temas o evaluar conocimientos de manera formativa. Su capacidad para transformar la atmósfera del aula y generar datos inmediatos sobre el rendimiento estudiantil la hace indispensable para el docente innovador. No obstante, su implementación debe ser equilibrada; es fundamental que el docente guíe la actividad para asegurar que el componente lúdico no eclipse el objetivo pedagógico primordial: la consolidación de un aprendizaje comprensivo y significativo. (Pèrez Alonso &amp; Espinoza, 2025)</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792465384590-fsml1zen7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El valor didáctico de Kahoot reside en su capacidad para promover un aprendizaje activo y participativo, donde los alumnos dejan de ser receptores pasivos para interactuar con el contenido. Al integrar elementos de competencia y reconocimiento, la herramienta ayuda a desarrollar habilidades transversales como la rapidez mental, la atención sostenida y la toma de decisiones. Su flexibilidad es otra de sus fortalezas, pues se adapta con éxito a clases presenciales, entornos en línea o estudio autónomo.</p>\n<p>Kahoot se consolida como una herramienta de gran valor educativo cuando se utiliza para repasar temas o evaluar conocimientos de manera formativa. Su capacidad para transformar la atmósfera del aula y generar datos inmediatos sobre el rendimiento estudiantil la hace indispensable para el docente innovador. No obstante, su implementación debe ser equilibrada; es fundamental que el docente guíe la actividad para asegurar que el componente lúdico no eclipse el objetivo pedagógico primordial: la consolidación de un aprendizaje comprensivo y significativo. (Pèrez Alonso &amp; Espinoza, 2025)</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvg3o0r1-mvskx7lsd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Unidad Didáctica </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Unidad Didáctica </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvg3o0r1-mvskx7lsd</odePageId>
+      <odeBlockId>block-mvg3o2vk-5r56812z0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvg3o0r1-mvskx7lsd</odePageId>
+          <odeBlockId>block-mvg3o2vk-5r56812z0</odeBlockId>
+          <odeIdeviceId>idevice-1792465483663-a8j01f2bs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1.Tema de la unidad didáctica</strong></p>
+<p>Fortalecimiento de la comprensión de las propiedades de la luz mediante actividades prácticas y ejemplos de la vida cotidiana en la unidad de Óptica geométrica.</p>
+<p>Unidad III: Óptica Geométrica</p>
+<p>Contenido: Propiedades de la luz </p>
+<p><strong>2.JUSTIFICACIÓN</strong></p>
+<p>El estudio de la Óptica geométrica es importante para la formación científica de los estudiantes, ya que permite comprender diferentes fenómenos relacionados con la luz que están presentes en la vida cotidiana. A través del conocimiento de sus propiedades, los estudiantes pueden interpretar situaciones como la formación de sombras, la reflexión de la luz en los espejos, la refracción que se observa cuando un objeto se introduce en agua y otros fenómenos relacionados con el comportamiento de la luz.</p>
+<p>La necesidad de desarrollar esta unidad surge a partir de la dificultad identificada en los estudiantes para comprender las propiedades de la luz, debido a que requieren mayor cantidad de ejemplos prácticos que les permitan relacionar los conceptos científicos con situaciones concretas y observables.</p>
+<p>Desde el punto de vista curricular, esta unidad contribuye al desarrollo de conocimientos científicos y habilidades relacionadas con la observación, la experimentación, el análisis y la explicación de fenómenos naturales. Además, permite fortalecer el aprendizaje de la Física mediante la relación entre los conocimientos teóricos y la práctica.</p>
+<p>Los estudiantes poseen algunos conocimientos previos relacionados con la luz, como reconocer que esta permite observar los objetos, identificar algunas fuentes de luz y reconocer fenómenos como las sombras. Sin embargo, presentan dificultades para explicar de manera científica las propiedades de la luz y relacionarlas con los fenómenos que observan.</p>
+<p>Por esta razón, se propone el desarrollo de actividades prácticas como la experimentación y ejemplos de la vida cotidiana que permitan a los estudiantes observar directamente los fenómenos luminosos, formular explicaciones, experimentar con diferentes materiales y construir sus propios aprendizajes.</p>
+<p> <strong>3.OBJETIVOS DE APRENDIZAJE</strong></p>
+<p>Objetivo General</p>
+<p>      Mejorar la comprensión de las propiedades de la luz mediante actividades prácticas y situaciones de la vida cotidiana, promoviendo la experimentación y la explicación científica de los fenómenos relacionados con la Óptica geométrica.</p>
+<p>Objetivos Específicos</p>
+<p>      Comprender las propiedades de la luz mediante la realización de actividades prácticas que permitan relacionarlas con fenómenos presentes en la vida cotidiana.</p>
+<p>      Explicar las propiedades de la luz utilizando conceptos científicos y ejemplos relacionados con situaciones de la vida cotidiana.</p>
+<p>      Comprobar mediante actividades prácticas algunas propiedades de la luz, utilizando materiales sencillos y de fácil acceso.</p>
+<p>      Desarrollar habilidades de observación, análisis, comunicación y trabajo colaborativo mediante la realización de actividades experimentales.</p>
+<p><strong>4. CONTENIDOS</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="196">
+<p><strong>Contenidos conceptuales</strong></p>
+</td>
+<td width="196">
+<p><strong>Contenidos procedimentales</strong></p>
+</td>
+<td width="196">
+<p><strong>Contenidos actitudinales</strong></p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Concepto de luz.</p>
+</td>
+<td width="196">
+<p>Observación de diferentes fenómenos relacionados con la luz.</p>
+</td>
+<td width="196">
+<p>Participación activa en las actividades propuestas.</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Óptica geométrica.</p>
+</td>
+<td width="196">
+<p>Identificación de las propiedades de la luz.</p>
+</td>
+<td width="196">
+<p>Interés por comprender los fenómenos relacionados con la luz.</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Propiedades de la luz.</p>
+</td>
+<td width="196">
+<p>Realización de experimentos sencillos.</p>
+</td>
+<td width="196">
+<p>Respeto por las ideas y opiniones de los compañeros.</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Propagación de la luz.</p>
+</td>
+<td width="196">
+<p>Utilización adecuada de materiales para comprobar fenómenos luminosos.</p>
+</td>
+<td width="196">
+<p>Disposición para trabajar de manera colaborativa.</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Reflexión de la luz.</p>
+</td>
+<td width="196">
+<p>Relación de los conocimientos científicos con situaciones de la vida cotidiana.</p>
+</td>
+<td width="196">
+<p>Trabajar de manera colaborativa y respetuosa con los compañeros.</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Refracción de la luz.</p>
+</td>
+<td width="196">
+<p>Realizar experiencias sencillas sobre reflexión y refracción de la luz.</p>
+</td>
+<td width="196">
+<p>Valorar el trabajo en equipo como una forma de construir conocimientos.</p>
+</td>
+</tr>
+<tr>
+<td width="196">
+<p>Fenómenos luminosos presentes en la vida cotidiana.</p>
+</td>
+<td width="196">
+<p>Explicar mediantes ejemplos cotidianos cómo se comporta la luz al interactuar con diferentes materiales.</p>
+</td>
+<td width="196">
+<p>Ser cuidadoso y ordenado en la realización de las actividades prácticas.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>5. COMPETENCIAS O CAPACIDADES A DESARROLLAR</strong></p>
+<p>Durante el desarrollo de la unidad se pretende fortalecer las siguientes competencias y capacidades:</p>
+<p>Comunicación científica</p>
+<ul>
+<li>  Expresa y comunica de manera clara sus ideas, observaciones y conclusiones relacionadas con las propiedades de la luz.</li>
+</ul>
+<p>Pensamiento crítico</p>
+<ul>
+<li> Analiza diferentes fenómenos luminosos y busca explicaciones basadas en conocimientos científicos.</li>
+</ul>
+<p>Indagación científica</p>
+<ul>
+<li>  Observa, formula preguntas, realiza experimentos, registra resultados y establece conclusiones a partir de las evidencias obtenidas.</li>
+</ul>
+<p>Resolución de problemas</p>
+<ul>
+<li> Aplica los conocimientos sobre las propiedades de la luz para explicar situaciones y fenómenos de la vida cotidiana.</li>
+</ul>
+<p>Trabajo colaborativo</p>
+<ul>
+<li> Participa responsablemente en actividades grupales, respetando las opiniones de los demás y contribuyendo al logro de los objetivos comunes.</li>
+</ul>
+<p><strong>6. ESTRATEGIAS DIDÁCTICAS</strong></p>
+<p>La estrategia didáctica principal será el aprendizaje práctico y experimental mediante ejemplos de la vida cotidiana.</p>
+<p>Esta estrategia se selecciona debido a la dificultad identificada en los estudiantes para comprender las propiedades de la luz. Se busca que los estudiantes no se limiten a memorizar conceptos, sino que puedan observar, experimentar, analizar y explicar los fenómenos luminosos.</p>
+<ul>
+<li>   Para ello, se utilizarán las siguientes estrategias:</li>
+<li>       Exposición dialogada para introducir los conceptos.</li>
+<li>       Preguntas generadoras para activar los conocimientos previos.</li>
+<li>       Aprendizaje cooperativo mediante el trabajo en equipos.</li>
+<li>       Actividades prácticas y experimentales.</li>
+<li>       Utilización de ejemplos de la vida cotidiana.</li>
+<li>       Observación y análisis de fenómenos luminosos.</li>
+<li>       Resolución de situaciones problemáticas.</li>
+<li>        El uso de la aplicación Kahoot.</li>
+</ul>
+<p>La aplicación de estas estrategias permitirá establecer una relación entre teoría y práctica, facilitando que los estudiantes comprendan las propiedades de la luz a partir de experiencias concretas.</p>
+<p><strong>7. ACTIVIDADES</strong></p>
+<p>ACRIVIDADES DE INICIO</p>
+<p> Actividad: Exploramos nuestros conocimientos sobre la luz</p>
+<p>El docente presenta imágenes o situaciones cotidianas relacionadas con la luz, como un espejo, una sombra, un arcoíris, una lupa o un objeto dentro de un recipiente con agua.</p>
+<p> </p>
+<p>Posteriormente, plantea preguntas como: </p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p> </p>
+<p>Los estudiantes expresan sus conocimientos e ideas previas.</p>
+<p>Actividad: Presentación del propósito de la unidad</p>
+<p>El docente explica a los estudiantes qué aprenderán durante la unidad y presenta los objetivos, destacando la importancia de comprender las propiedades de la luz mediante actividades prácticas.</p>
+<p>ACTIVIDADES DE DESARROLLO</p>
+<p> Actividad: Conocemos las propiedades de la luz</p>
+<p>El docente realiza una explicación dialogada sobre las principales propiedades de la luz, utilizando imágenes, ejemplos sencillos y situaciones de la vida cotidiana.</p>
+<p>Los estudiantes elaboran apuntes y participan respondiendo preguntas.</p>
+<p> </p>
+<p>Actividad: Experimentamos con la reflexión</p>
+<p>Los estudiantes, organizados en equipos, utilizan una fuente de luz y un espejo para observar qué sucede cuando la luz llega a una superficie reflectante.</p>
+<p>Posteriormente, registran sus observaciones y explican con sus propias palabras el fenómeno observado.</p>
+<p>Actividad: Experimentamos con la refracción</p>
+<p>Los estudiantes colocan un lápiz u otro objeto dentro de un recipiente transparente con agua y observan cómo parece cambiar su posición o forma.</p>
+<p>Después, comentan lo observado y lo relacionan con el fenómeno de la refracción.</p>
+<p>Actividad: Observamos la formación de sombras</p>
+<p>Los estudiantes utilizan una fuente de luz y diferentes objetos para observar cómo se producen las sombras.</p>
+<p>Comparan los resultados obtenidos y determinan qué ocurre cuando un objeto impide el paso de la luz.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>Actividad: Relacionamos la luz con nuestra vida cotidiana</p>
+<p>Los estudiantes identifican ejemplos de las propiedades de la luz presentes en su entorno, como:</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+<p> </p>
+<p>Cada equipo selecciona algunos ejemplos y explica qué propiedad de la luz está relacionada con ellos.</p>
+<p>Actividad: Socializamos nuestros aprendizajes</p>
+<p>Cada equipo presenta los resultados de una de las actividades prácticas realizadas. Los demás estudiantes participan formulando preguntas y aportando ejemplos.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> ACTIVIDADES DE CIERRE</p>
+<p>Actividad: Construimos lo aprendido</p>
+<p>Los estudiantes elaboran un mapa conceptual o esquema donde relacionan:</p>
+<p>Luz, propiedades, fenómenos y ejemplos de la vida cotidiana.</p>
+<p> Actividad: Reflexionamos sobre nuestro aprendizaje</p>
+<p>Los estudiantes responden preguntas como:</p>
+<p>¿Qué aprendí sobre las propiedades de la luz?</p>
+<p>¿Qué experimento me ayudó más a comprender el tema?</p>
+<p>¿Qué propiedad de la luz puedo identificar en mi vida cotidiana?</p>
+<p>¿Qué dificultad tuve durante las actividades?</p>
+<p>¿Cómo logré superarla?</p>
+<p>Finalmente, se realiza una evaluación para comprobar el nivel de logro de los objetivos de aprendizaje.</p>
+<p><strong>8. RECURSOS DIDÁCTICOS</strong></p>
+<p>Para desarrollar las actividades se utilizarán recursos accesibles y adecuados para facilitar el aprendizaje práctico.</p>
+<p>Materiales manipulativos</p>
+<p>·       Linternas.</p>
+<p>·       Espejos.</p>
+<p>·       Recipientes transparentes.</p>
+<p>·       Agua.</p>
+<p>·       Lápices.</p>
+<p>·       Objetos transparentes, translúcidos y opacos.</p>
+<p>·       Hojas de trabajo.</p>
+<p>Materiales impresos</p>
+<p>·       Guías de aprendizaje.</p>
+<p>·       Fichas de trabajo.</p>
+<p>·       Lecturas relacionadas con la Óptica geométrica.</p>
+<p>·       Imágenes de fenómenos luminosos.</p>
+<p>Recursos audiovisuales</p>
+<p>·       Videos educativos.</p>
+<p>·       Imágenes.</p>
+<p>·       Presentaciones digitales.</p>
+<p>Recursos tecnológicos</p>
+<p>·       Computadora.</p>
+<p>·       Teléfonos celulares, cuando sea posible.</p>
+<p>·       Proyector.</p>
+<p>·       Recursos digitales educativos.</p>
+<p><br /> </p>
+<p><strong>9. EVALUACIÓN</strong></p>
+<p>La evaluación será un proceso continuo, integral y relacionado con los objetivos de aprendizaje, considerando los conocimientos, habilidades y actitudes desarrolladas durante la unidad.</p>
+<table>
+<tbody>
+<tr>
+<td width="147">
+<p><strong>Tipo de Evaluación</strong></p>
+</td>
+<td width="147">
+<p><strong>Momento</strong></p>
+</td>
+<td width="147">
+<p><strong>Técnicas e Instrumentos</strong></p>
+</td>
+<td width="147">
+<p><strong>Propósito</strong></p>
+</td>
+</tr>
+<tr>
+<td width="147">
+<p><strong><em> </em></strong></p>
+<p><strong><em>Diagnostica</em></strong></p>
+</td>
+<td width="147">
+<p> </p>
+<p>Al inicio de la unidad.</p>
+</td>
+<td width="147">
+<p>Preguntas iniciales o lluvias de ideas.</p>
+</td>
+<td width="147">
+<p>Identificar las ideas previas, conocimientos y dificultades del estudiante.</p>
+</td>
+</tr>
+<tr>
+<td width="147">
+<p><strong><em> </em></strong></p>
+<p><strong><em>Formativa</em></strong></p>
+</td>
+<td width="147">
+<p> </p>
+<p>Durante el desarrollo de la unidad.</p>
+</td>
+<td width="147">
+<p>Observación directa, preguntas orales, actividades prácticas como trabajos grupales.</p>
+</td>
+<td width="147">
+<p>Dar seguimiento al aprendizaje de los estudiantes y brindar retroalimentación oportuna durante el proceso.</p>
+</td>
+</tr>
+<tr>
+<td width="147">
+<p><strong><em> </em></strong></p>
+<p><strong><em>Sumativa</em></strong></p>
+</td>
+<td width="147">
+<p> </p>
+<p>Al finalizar de la unidad.</p>
+</td>
+<td width="147">
+<p>Elaboración de mapa conceptual, actividad experimental y resoluciones de situaciones de la vida cotidiana.</p>
+</td>
+<td width="147">
+<p>Comprobar el nivel de logro de los objetivos de aprendizaje establecidos.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p> Criterios de evaluación</p>
+<p>Se tendrá en cuenta si el estudiante:</p>
+<ul>
+<li> Identifica las principales propiedades de la luz.</li>
+<li>  Explica las propiedades de la luz con claridad.</li>
+<li>  Relaciona los conceptos con situaciones cotidianas.</li>
+<li>  Participa adecuadamente en las actividades experimentales.</li>
+<li>  Interpreta los resultados de los experimentos.</li>
+<li>  Comunica sus conclusiones.</li>
+<li>  Trabaja responsablemente en equipo.</li>
+<li>  Utiliza correctamente los materiales.</li>
+</ul>
+<p>Instrumentos de Evaluación </p>
+<ul>
+<li>  Lista de cotejo</li>
+<li>  Cuestionario </li>
+<li>  Rubrica</li>
+<li>Autoevaluación </li>
+</ul>
+<p><strong>10. TEMPORALIZACION </strong></p>
+<p>La unidad didáctica se desarrollará en 6 sesiones de 90 minutos cada una, para un total de 9 horas. Las actividades se organizarán de manera progresiva, iniciando con la recuperación de conocimientos previos y el planteamiento de la situación problemática, para continuar con actividades prácticas y experimentales relacionadas con las propiedades de la luz. Finalmente, se realizará el análisis de los resultados, la socialización de los aprendizajes y la evaluación de los conocimientos adquiridos.</p>
+<table>
+<tbody>
+<tr>
+<td width="94">
+<p><strong>Sesión</strong></p>
+</td>
+<td width="331">
+<p><strong>Actividades principales</strong></p>
+</td>
+<td width="164">
+<p><strong>Tiempo</strong></p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p><strong> </strong></p>
+<p><strong>1</strong></p>
+</td>
+<td width="331">
+<p>Presentación de la situación problemática relacionada con las propiedades de la luz, recuperación de conocimientos previos mediantes preguntas generadoras y formulación de hipótesis sobre las propiedades de la luz.</p>
+</td>
+<td width="164">
+<p>90 minutos</p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p><strong> </strong></p>
+<p><strong>2</strong></p>
+</td>
+<td width="331">
+<p>Análisis de la situación problemática, organización de los grupos de trabajo y orientación para el desarrollo de las actividades experimentales. Introducción a las propiedades de la luz mediante ejemplos de la vida cotidiana.</p>
+</td>
+<td width="164">
+<p>90 minutos</p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p><strong> </strong></p>
+<p><strong>3</strong></p>
+</td>
+<td width="331">
+<p>Realización de actividades experimentales sobre la propagación rectilínea y reflexión de la luz, utilizando materiales sencillos. Registros de las observaciones.</p>
+</td>
+<td width="164">
+<p>90 minutos</p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p><strong> </strong></p>
+<p><strong>4</strong></p>
+</td>
+<td width="331">
+<p>Realización de actividades experimentales sobre la refracción y dispersión de la luz. Análisis y registro de los resultados obtenidos.</p>
+</td>
+<td width="164">
+<p>90 minutos</p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p><strong> </strong></p>
+<p><strong>5</strong></p>
+</td>
+<td width="331">
+<p>Comprobación de las hipótesis mediante los resultados experimentales, resolución de situaciones prácticas y relación de las propiedades de la luz con fenómenos de la vida cotidiana.</p>
+</td>
+<td width="164">
+<p>90 minutos</p>
+</td>
+</tr>
+<tr>
+<td width="94">
+<p><strong> </strong></p>
+<p><strong>6</strong></p>
+</td>
+<td width="331">
+<p>Socialización de los resultados obtenidos por los grupos, explicación de los fenómenos observados, elaboración de conclusiones y evaluación de los aprendizajes alcanzados.</p>
+</td>
+<td width="164">
+<p>90 minutos</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /><strong>11. ATENCIÓN A LA DIVERSIDAD</strong></p>
+<p>La atención a la diversidad será un elemento fundamental durante el desarrollo de la unidad didáctica, considerando que los estudiantes presentan diferentes ritmos, estilos y necesidades de aprendizaje. Por ello, se implementarán estrategias que permitan la participación activa de todos los estudiantes y faciliten la comprensión de las propiedades de la luz mediante actividades prácticas, experimentales y ejemplos relacionados con la vida cotidiana.</p>
+<p>Actividades multinivel</p>
+<p>Se propondrán actividades con diferentes niveles de complejidad, de acuerdo con las capacidades y ritmos de aprendizaje de los estudiantes. Algunos estudiantes podrán realizar actividades de identificación y descripción de las propiedades de la luz, mientras que otros podrán avanzar hacia actividades de análisis, explicación y aplicación de estos conocimientos en situaciones de la vida cotidiana.</p>
+<p>De esta manera, todos los estudiantes podrán trabajar el mismo contenido, pero con diferentes niveles de apoyo y dificultad según sus necesidades.</p>
+<p>Adaptaciones curriculares</p>
+<p>Cuando sea necesario, se realizarán ajustes en las actividades, instrucciones, materiales y formas de evaluación para favorecer el aprendizaje de los estudiantes que presenten necesidades educativas específicas.</p>
+<p>Estas adaptaciones podrán incluir:</p>
+<p>·       Simplificación de las instrucciones sin modificar el propósito principal de aprendizaje.</p>
+<p>·       Mayor tiempo para realizar determinadas actividades.</p>
+<p>·       Uso de ejemplos concretos y situaciones de la vida cotidiana.</p>
+<p>·       Adaptación de las actividades prácticas de acuerdo con las posibilidades de cada estudiante.</p>
+<p>·       Utilización de diferentes formas para demostrar lo aprendido, como explicaciones orales, dibujos, esquemas, demostraciones prácticas o respuestas escritas.</p>
+<p>·       Ajustes en los instrumentos de evaluación cuando las necesidades del estudiante lo requieran.</p>
+<p>Uso de apoyos visuales o manipulativos</p>
+<p>Se utilizarán diferentes recursos visuales y materiales concretos para facilitar la comprensión de los contenidos, especialmente de los fenómenos relacionados con las propiedades de la luz.</p>
+<p>Entre estos recursos se utilizarán:</p>
+<p>·       Imágenes y esquemas.</p>
+<p>·       Videos educativos.</p>
+<p>·       Demostraciones prácticas.</p>
+<p>·       Linternas.</p>
+<p>·       Espejos.</p>
+<p>·       Recipientes transparentes con agua.</p>
+<p>·       Objetos transparentes, translúcidos y opacos.</p>
+<p>·       Materiales sencillos para realizar experimentos.</p>
+<p>El uso de estos recursos permitirá que los estudiantes puedan observar y manipular los fenómenos estudiados, facilitando la relación entre los conceptos científicos y las experiencias de la vida cotidiana.</p>
+<p>Agrupamientos flexibles</p>
+<p>Los estudiantes podrán organizarse de diferentes maneras de acuerdo con las características de cada actividad. Se trabajará de forma:</p>
+<p>·       Individual.</p>
+<p>·       En parejas.</p>
+<p>·       En pequeños grupos.</p>
+<p>·       En grupos heterogéneos.</p>
+<p>Los agrupamientos heterogéneos permitirán que los estudiantes colaboren entre sí, compartan conocimientos y se apoyen durante las actividades prácticas y experimentales. Además, se asignarán diferentes responsabilidades dentro de los equipos para favorecer la participación de todos.</p>
+<p>Aplicación de los principios del Diseño Universal para el Aprendizaje (DUA)</p>
+<p>Se aplicarán los principios del Diseño Universal para el Aprendizaje con el propósito de ofrecer diferentes formas de presentar la información, participar en las actividades y demostrar los aprendizajes alcanzados.</p>
+<p>Para ello se considerarán:</p>
+<p>Múltiples formas de representación:</p>
+<p>Los contenidos se presentarán mediante explicaciones orales, imágenes, esquemas, videos, ejemplos cotidianos y demostraciones experimentales, permitiendo que los estudiantes accedan a la información de diferentes maneras.</p>
+<p>Múltiples formas de acción y expresión:</p>
+<p>Los estudiantes podrán demostrar lo aprendido mediante respuestas orales y escritas, dibujos, mapas conceptuales, experimentos, exposiciones y explicaciones de fenómenos relacionados con las propiedades de la luz.</p>
+<p>Múltiples formas de implicación:</p>
+<p>Se promoverá la participación, el trabajo colaborativo, la experimentación y la relación de los contenidos con situaciones de la vida cotidiana, buscando despertar el interés y la motivación de los estudiantes.</p>
+<p>De esta manera, la atención a la diversidad permitirá que todos los estudiantes tengan oportunidades de participar, aprender y demostrar sus conocimientos, respetando sus diferentes características, ritmos y necesidades de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792465483663-a8j01f2bs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1.Tema de la unidad didáctica</strong></p>\n<p>Fortalecimiento de la comprensión de las propiedades de la luz mediante actividades prácticas y ejemplos de la vida cotidiana en la unidad de Óptica geométrica.</p>\n<p>Unidad III: Óptica Geométrica</p>\n<p>Contenido: Propiedades de la luz </p>\n<p><strong>2.JUSTIFICACIÓN</strong></p>\n<p>El estudio de la Óptica geométrica es importante para la formación científica de los estudiantes, ya que permite comprender diferentes fenómenos relacionados con la luz que están presentes en la vida cotidiana. A través del conocimiento de sus propiedades, los estudiantes pueden interpretar situaciones como la formación de sombras, la reflexión de la luz en los espejos, la refracción que se observa cuando un objeto se introduce en agua y otros fenómenos relacionados con el comportamiento de la luz.</p>\n<p>La necesidad de desarrollar esta unidad surge a partir de la dificultad identificada en los estudiantes para comprender las propiedades de la luz, debido a que requieren mayor cantidad de ejemplos prácticos que les permitan relacionar los conceptos científicos con situaciones concretas y observables.</p>\n<p>Desde el punto de vista curricular, esta unidad contribuye al desarrollo de conocimientos científicos y habilidades relacionadas con la observación, la experimentación, el análisis y la explicación de fenómenos naturales. Además, permite fortalecer el aprendizaje de la Física mediante la relación entre los conocimientos teóricos y la práctica.</p>\n<p>Los estudiantes poseen algunos conocimientos previos relacionados con la luz, como reconocer que esta permite observar los objetos, identificar algunas fuentes de luz y reconocer fenómenos como las sombras. Sin embargo, presentan dificultades para explicar de manera científica las propiedades de la luz y relacionarlas con los fenómenos que observan.</p>\n<p>Por esta razón, se propone el desarrollo de actividades prácticas como la experimentación y ejemplos de la vida cotidiana que permitan a los estudiantes observar directamente los fenómenos luminosos, formular explicaciones, experimentar con diferentes materiales y construir sus propios aprendizajes.</p>\n<p> <strong>3.OBJETIVOS DE APRENDIZAJE</strong></p>\n<p>Objetivo General</p>\n<p>      Mejorar la comprensión de las propiedades de la luz mediante actividades prácticas y situaciones de la vida cotidiana, promoviendo la experimentación y la explicación científica de los fenómenos relacionados con la Óptica geométrica.</p>\n<p>Objetivos Específicos</p>\n<p>      Comprender las propiedades de la luz mediante la realización de actividades prácticas que permitan relacionarlas con fenómenos presentes en la vida cotidiana.</p>\n<p>      Explicar las propiedades de la luz utilizando conceptos científicos y ejemplos relacionados con situaciones de la vida cotidiana.</p>\n<p>      Comprobar mediante actividades prácticas algunas propiedades de la luz, utilizando materiales sencillos y de fácil acceso.</p>\n<p>      Desarrollar habilidades de observación, análisis, comunicación y trabajo colaborativo mediante la realización de actividades experimentales.</p>\n<p><strong>4. CONTENIDOS</strong></p>\n<table>\n<tbody>\n<tr>\n<td width=\"196\">\n<p><strong>Contenidos conceptuales</strong></p>\n</td>\n<td width=\"196\">\n<p><strong>Contenidos procedimentales</strong></p>\n</td>\n<td width=\"196\">\n<p><strong>Contenidos actitudinales</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"196\">\n<p>Concepto de luz.</p>\n</td>\n<td width=\"196\">\n<p>Observación de diferentes fenómenos relacionados con la luz.</p>\n</td>\n<td width=\"196\">\n<p>Participación activa en las actividades propuestas.</p>\n</td>\n</tr>\n<tr>\n<td width=\"196\">\n<p>Óptica geométrica.</p>\n</td>\n<td width=\"196\">\n<p>Identificación de las propiedades de la luz.</p>\n</td>\n<td width=\"196\">\n<p>Interés por comprender los fenómenos relacionados con la luz.</p>\n</td>\n</tr>\n<tr>\n<td width=\"196\">\n<p>Propiedades de la luz.</p>\n</td>\n<td width=\"196\">\n<p>Realización de experimentos sencillos.</p>\n</td>\n<td width=\"196\">\n<p>Respeto por las ideas y opiniones de los compañeros.</p>\n</td>\n</tr>\n<tr>\n<td width=\"196\">\n<p>Propagación de la luz.</p>\n</td>\n<td width=\"196\">\n<p>Utilización adecuada de materiales para comprobar fenómenos luminosos.</p>\n</td>\n<td width=\"196\">\n<p>Disposición para trabajar de manera colaborativa.</p>\n</td>\n</tr>\n<tr>\n<td width=\"196\">\n<p>Reflexión de la luz.</p>\n</td>\n<td width=\"196\">\n<p>Relación de los conocimientos científicos con situaciones de la vida cotidiana.</p>\n</td>\n<td width=\"196\">\n<p>Trabajar de manera colaborativa y respetuosa con los compañeros.</p>\n</td>\n</tr>\n<tr>\n<td width=\"196\">\n<p>Refracción de la luz.</p>\n</td>\n<td width=\"196\">\n<p>Realizar experiencias sencillas sobre reflexión y refracción de la luz.</p>\n</td>\n<td width=\"196\">\n<p>Valorar el trabajo en equipo como una forma de construir conocimientos.</p>\n</td>\n</tr>\n<tr>\n<td width=\"196\">\n<p>Fenómenos luminosos presentes en la vida cotidiana.</p>\n</td>\n<td width=\"196\">\n<p>Explicar mediantes ejemplos cotidianos cómo se comporta la luz al interactuar con diferentes materiales.</p>\n</td>\n<td width=\"196\">\n<p>Ser cuidadoso y ordenado en la realización de las actividades prácticas.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p><strong>5. COMPETENCIAS O CAPACIDADES A DESARROLLAR</strong></p>\n<p>Durante el desarrollo de la unidad se pretende fortalecer las siguientes competencias y capacidades:</p>\n<p>Comunicación científica</p>\n<ul>\n<li>  Expresa y comunica de manera clara sus ideas, observaciones y conclusiones relacionadas con las propiedades de la luz.</li>\n</ul>\n<p>Pensamiento crítico</p>\n<ul>\n<li> Analiza diferentes fenómenos luminosos y busca explicaciones basadas en conocimientos científicos.</li>\n</ul>\n<p>Indagación científica</p>\n<ul>\n<li>  Observa, formula preguntas, realiza experimentos, registra resultados y establece conclusiones a partir de las evidencias obtenidas.</li>\n</ul>\n<p>Resolución de problemas</p>\n<ul>\n<li> Aplica los conocimientos sobre las propiedades de la luz para explicar situaciones y fenómenos de la vida cotidiana.</li>\n</ul>\n<p>Trabajo colaborativo</p>\n<ul>\n<li> Participa responsablemente en actividades grupales, respetando las opiniones de los demás y contribuyendo al logro de los objetivos comunes.</li>\n</ul>\n<p><strong>6. ESTRATEGIAS DIDÁCTICAS</strong></p>\n<p>La estrategia didáctica principal será el aprendizaje práctico y experimental mediante ejemplos de la vida cotidiana.</p>\n<p>Esta estrategia se selecciona debido a la dificultad identificada en los estudiantes para comprender las propiedades de la luz. Se busca que los estudiantes no se limiten a memorizar conceptos, sino que puedan observar, experimentar, analizar y explicar los fenómenos luminosos.</p>\n<ul>\n<li>   Para ello, se utilizarán las siguientes estrategias:</li>\n<li>       Exposición dialogada para introducir los conceptos.</li>\n<li>       Preguntas generadoras para activar los conocimientos previos.</li>\n<li>       Aprendizaje cooperativo mediante el trabajo en equipos.</li>\n<li>       Actividades prácticas y experimentales.</li>\n<li>       Utilización de ejemplos de la vida cotidiana.</li>\n<li>       Observación y análisis de fenómenos luminosos.</li>\n<li>       Resolución de situaciones problemáticas.</li>\n<li>        El uso de la aplicación Kahoot.</li>\n</ul>\n<p>La aplicación de estas estrategias permitirá establecer una relación entre teoría y práctica, facilitando que los estudiantes comprendan las propiedades de la luz a partir de experiencias concretas.</p>\n<p><strong>7. ACTIVIDADES</strong></p>\n<p>ACRIVIDADES DE INICIO</p>\n<p> Actividad: Exploramos nuestros conocimientos sobre la luz</p>\n<p>El docente presenta imágenes o situaciones cotidianas relacionadas con la luz, como un espejo, una sombra, un arcoíris, una lupa o un objeto dentro de un recipiente con agua.</p>\n<p> </p>\n<p>Posteriormente, plantea preguntas como: </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p> </p>\n<p>Los estudiantes expresan sus conocimientos e ideas previas.</p>\n<p>Actividad: Presentación del propósito de la unidad</p>\n<p>El docente explica a los estudiantes qué aprenderán durante la unidad y presenta los objetivos, destacando la importancia de comprender las propiedades de la luz mediante actividades prácticas.</p>\n<p>ACTIVIDADES DE DESARROLLO</p>\n<p> Actividad: Conocemos las propiedades de la luz</p>\n<p>El docente realiza una explicación dialogada sobre las principales propiedades de la luz, utilizando imágenes, ejemplos sencillos y situaciones de la vida cotidiana.</p>\n<p>Los estudiantes elaboran apuntes y participan respondiendo preguntas.</p>\n<p> </p>\n<p>Actividad: Experimentamos con la reflexión</p>\n<p>Los estudiantes, organizados en equipos, utilizan una fuente de luz y un espejo para observar qué sucede cuando la luz llega a una superficie reflectante.</p>\n<p>Posteriormente, registran sus observaciones y explican con sus propias palabras el fenómeno observado.</p>\n<p>Actividad: Experimentamos con la refracción</p>\n<p>Los estudiantes colocan un lápiz u otro objeto dentro de un recipiente transparente con agua y observan cómo parece cambiar su posición o forma.</p>\n<p>Después, comentan lo observado y lo relacionan con el fenómeno de la refracción.</p>\n<p>Actividad: Observamos la formación de sombras</p>\n<p>Los estudiantes utilizan una fuente de luz y diferentes objetos para observar cómo se producen las sombras.</p>\n<p>Comparan los resultados obtenidos y determinan qué ocurre cuando un objeto impide el paso de la luz.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>Actividad: Relacionamos la luz con nuestra vida cotidiana</p>\n<p>Los estudiantes identifican ejemplos de las propiedades de la luz presentes en su entorno, como:</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>\n<p> </p>\n<p>Cada equipo selecciona algunos ejemplos y explica qué propiedad de la luz está relacionada con ellos.</p>\n<p>Actividad: Socializamos nuestros aprendizajes</p>\n<p>Cada equipo presenta los resultados de una de las actividades prácticas realizadas. Los demás estudiantes participan formulando preguntas y aportando ejemplos.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> ACTIVIDADES DE CIERRE</p>\n<p>Actividad: Construimos lo aprendido</p>\n<p>Los estudiantes elaboran un mapa conceptual o esquema donde relacionan:</p>\n<p>Luz, propiedades, fenómenos y ejemplos de la vida cotidiana.</p>\n<p> Actividad: Reflexionamos sobre nuestro aprendizaje</p>\n<p>Los estudiantes responden preguntas como:</p>\n<p>¿Qué aprendí sobre las propiedades de la luz?</p>\n<p>¿Qué experimento me ayudó más a comprender el tema?</p>\n<p>¿Qué propiedad de la luz puedo identificar en mi vida cotidiana?</p>\n<p>¿Qué dificultad tuve durante las actividades?</p>\n<p>¿Cómo logré superarla?</p>\n<p>Finalmente, se realiza una evaluación para comprobar el nivel de logro de los objetivos de aprendizaje.</p>\n<p><strong>8. RECURSOS DIDÁCTICOS</strong></p>\n<p>Para desarrollar las actividades se utilizarán recursos accesibles y adecuados para facilitar el aprendizaje práctico.</p>\n<p>Materiales manipulativos</p>\n<p>·       Linternas.</p>\n<p>·       Espejos.</p>\n<p>·       Recipientes transparentes.</p>\n<p>·       Agua.</p>\n<p>·       Lápices.</p>\n<p>·       Objetos transparentes, translúcidos y opacos.</p>\n<p>·       Hojas de trabajo.</p>\n<p>Materiales impresos</p>\n<p>·       Guías de aprendizaje.</p>\n<p>·       Fichas de trabajo.</p>\n<p>·       Lecturas relacionadas con la Óptica geométrica.</p>\n<p>·       Imágenes de fenómenos luminosos.</p>\n<p>Recursos audiovisuales</p>\n<p>·       Videos educativos.</p>\n<p>·       Imágenes.</p>\n<p>·       Presentaciones digitales.</p>\n<p>Recursos tecnológicos</p>\n<p>·       Computadora.</p>\n<p>·       Teléfonos celulares, cuando sea posible.</p>\n<p>·       Proyector.</p>\n<p>·       Recursos digitales educativos.</p>\n<p><br /> </p>\n<p><strong>9. EVALUACIÓN</strong></p>\n<p>La evaluación será un proceso continuo, integral y relacionado con los objetivos de aprendizaje, considerando los conocimientos, habilidades y actitudes desarrolladas durante la unidad.</p>\n<table>\n<tbody>\n<tr>\n<td width=\"147\">\n<p><strong>Tipo de Evaluación</strong></p>\n</td>\n<td width=\"147\">\n<p><strong>Momento</strong></p>\n</td>\n<td width=\"147\">\n<p><strong>Técnicas e Instrumentos</strong></p>\n</td>\n<td width=\"147\">\n<p><strong>Propósito</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"147\">\n<p><strong><em> </em></strong></p>\n<p><strong><em>Diagnostica</em></strong></p>\n</td>\n<td width=\"147\">\n<p> </p>\n<p>Al inicio de la unidad.</p>\n</td>\n<td width=\"147\">\n<p>Preguntas iniciales o lluvias de ideas.</p>\n</td>\n<td width=\"147\">\n<p>Identificar las ideas previas, conocimientos y dificultades del estudiante.</p>\n</td>\n</tr>\n<tr>\n<td width=\"147\">\n<p><strong><em> </em></strong></p>\n<p><strong><em>Formativa</em></strong></p>\n</td>\n<td width=\"147\">\n<p> </p>\n<p>Durante el desarrollo de la unidad.</p>\n</td>\n<td width=\"147\">\n<p>Observación directa, preguntas orales, actividades prácticas como trabajos grupales.</p>\n</td>\n<td width=\"147\">\n<p>Dar seguimiento al aprendizaje de los estudiantes y brindar retroalimentación oportuna durante el proceso.</p>\n</td>\n</tr>\n<tr>\n<td width=\"147\">\n<p><strong><em> </em></strong></p>\n<p><strong><em>Sumativa</em></strong></p>\n</td>\n<td width=\"147\">\n<p> </p>\n<p>Al finalizar de la unidad.</p>\n</td>\n<td width=\"147\">\n<p>Elaboración de mapa conceptual, actividad experimental y resoluciones de situaciones de la vida cotidiana.</p>\n</td>\n<td width=\"147\">\n<p>Comprobar el nivel de logro de los objetivos de aprendizaje establecidos.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p> Criterios de evaluación</p>\n<p>Se tendrá en cuenta si el estudiante:</p>\n<ul>\n<li> Identifica las principales propiedades de la luz.</li>\n<li>  Explica las propiedades de la luz con claridad.</li>\n<li>  Relaciona los conceptos con situaciones cotidianas.</li>\n<li>  Participa adecuadamente en las actividades experimentales.</li>\n<li>  Interpreta los resultados de los experimentos.</li>\n<li>  Comunica sus conclusiones.</li>\n<li>  Trabaja responsablemente en equipo.</li>\n<li>  Utiliza correctamente los materiales.</li>\n</ul>\n<p>Instrumentos de Evaluación </p>\n<ul>\n<li>  Lista de cotejo</li>\n<li>  Cuestionario </li>\n<li>  Rubrica</li>\n<li>Autoevaluación </li>\n</ul>\n<p><strong>10. TEMPORALIZACION </strong></p>\n<p>La unidad didáctica se desarrollará en 6 sesiones de 90 minutos cada una, para un total de 9 horas. Las actividades se organizarán de manera progresiva, iniciando con la recuperación de conocimientos previos y el planteamiento de la situación problemática, para continuar con actividades prácticas y experimentales relacionadas con las propiedades de la luz. Finalmente, se realizará el análisis de los resultados, la socialización de los aprendizajes y la evaluación de los conocimientos adquiridos.</p>\n<table>\n<tbody>\n<tr>\n<td width=\"94\">\n<p><strong>Sesión</strong></p>\n</td>\n<td width=\"331\">\n<p><strong>Actividades principales</strong></p>\n</td>\n<td width=\"164\">\n<p><strong>Tiempo</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"94\">\n<p><strong> </strong></p>\n<p><strong>1</strong></p>\n</td>\n<td width=\"331\">\n<p>Presentación de la situación problemática relacionada con las propiedades de la luz, recuperación de conocimientos previos mediantes preguntas generadoras y formulación de hipótesis sobre las propiedades de la luz.</p>\n</td>\n<td width=\"164\">\n<p>90 minutos</p>\n</td>\n</tr>\n<tr>\n<td width=\"94\">\n<p><strong> </strong></p>\n<p><strong>2</strong></p>\n</td>\n<td width=\"331\">\n<p>Análisis de la situación problemática, organización de los grupos de trabajo y orientación para el desarrollo de las actividades experimentales. Introducción a las propiedades de la luz mediante ejemplos de la vida cotidiana.</p>\n</td>\n<td width=\"164\">\n<p>90 minutos</p>\n</td>\n</tr>\n<tr>\n<td width=\"94\">\n<p><strong> </strong></p>\n<p><strong>3</strong></p>\n</td>\n<td width=\"331\">\n<p>Realización de actividades experimentales sobre la propagación rectilínea y reflexión de la luz, utilizando materiales sencillos. Registros de las observaciones.</p>\n</td>\n<td width=\"164\">\n<p>90 minutos</p>\n</td>\n</tr>\n<tr>\n<td width=\"94\">\n<p><strong> </strong></p>\n<p><strong>4</strong></p>\n</td>\n<td width=\"331\">\n<p>Realización de actividades experimentales sobre la refracción y dispersión de la luz. Análisis y registro de los resultados obtenidos.</p>\n</td>\n<td width=\"164\">\n<p>90 minutos</p>\n</td>\n</tr>\n<tr>\n<td width=\"94\">\n<p><strong> </strong></p>\n<p><strong>5</strong></p>\n</td>\n<td width=\"331\">\n<p>Comprobación de las hipótesis mediante los resultados experimentales, resolución de situaciones prácticas y relación de las propiedades de la luz con fenómenos de la vida cotidiana.</p>\n</td>\n<td width=\"164\">\n<p>90 minutos</p>\n</td>\n</tr>\n<tr>\n<td width=\"94\">\n<p><strong> </strong></p>\n<p><strong>6</strong></p>\n</td>\n<td width=\"331\">\n<p>Socialización de los resultados obtenidos por los grupos, explicación de los fenómenos observados, elaboración de conclusiones y evaluación de los aprendizajes alcanzados.</p>\n</td>\n<td width=\"164\">\n<p>90 minutos</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /><strong>11. ATENCIÓN A LA DIVERSIDAD</strong></p>\n<p>La atención a la diversidad será un elemento fundamental durante el desarrollo de la unidad didáctica, considerando que los estudiantes presentan diferentes ritmos, estilos y necesidades de aprendizaje. Por ello, se implementarán estrategias que permitan la participación activa de todos los estudiantes y faciliten la comprensión de las propiedades de la luz mediante actividades prácticas, experimentales y ejemplos relacionados con la vida cotidiana.</p>\n<p>Actividades multinivel</p>\n<p>Se propondrán actividades con diferentes niveles de complejidad, de acuerdo con las capacidades y ritmos de aprendizaje de los estudiantes. Algunos estudiantes podrán realizar actividades de identificación y descripción de las propiedades de la luz, mientras que otros podrán avanzar hacia actividades de análisis, explicación y aplicación de estos conocimientos en situaciones de la vida cotidiana.</p>\n<p>De esta manera, todos los estudiantes podrán trabajar el mismo contenido, pero con diferentes niveles de apoyo y dificultad según sus necesidades.</p>\n<p>Adaptaciones curriculares</p>\n<p>Cuando sea necesario, se realizarán ajustes en las actividades, instrucciones, materiales y formas de evaluación para favorecer el aprendizaje de los estudiantes que presenten necesidades educativas específicas.</p>\n<p>Estas adaptaciones podrán incluir:</p>\n<p>·       Simplificación de las instrucciones sin modificar el propósito principal de aprendizaje.</p>\n<p>·       Mayor tiempo para realizar determinadas actividades.</p>\n<p>·       Uso de ejemplos concretos y situaciones de la vida cotidiana.</p>\n<p>·       Adaptación de las actividades prácticas de acuerdo con las posibilidades de cada estudiante.</p>\n<p>·       Utilización de diferentes formas para demostrar lo aprendido, como explicaciones orales, dibujos, esquemas, demostraciones prácticas o respuestas escritas.</p>\n<p>·       Ajustes en los instrumentos de evaluación cuando las necesidades del estudiante lo requieran.</p>\n<p>Uso de apoyos visuales o manipulativos</p>\n<p>Se utilizarán diferentes recursos visuales y materiales concretos para facilitar la comprensión de los contenidos, especialmente de los fenómenos relacionados con las propiedades de la luz.</p>\n<p>Entre estos recursos se utilizarán:</p>\n<p>·       Imágenes y esquemas.</p>\n<p>·       Videos educativos.</p>\n<p>·       Demostraciones prácticas.</p>\n<p>·       Linternas.</p>\n<p>·       Espejos.</p>\n<p>·       Recipientes transparentes con agua.</p>\n<p>·       Objetos transparentes, translúcidos y opacos.</p>\n<p>·       Materiales sencillos para realizar experimentos.</p>\n<p>El uso de estos recursos permitirá que los estudiantes puedan observar y manipular los fenómenos estudiados, facilitando la relación entre los conceptos científicos y las experiencias de la vida cotidiana.</p>\n<p>Agrupamientos flexibles</p>\n<p>Los estudiantes podrán organizarse de diferentes maneras de acuerdo con las características de cada actividad. Se trabajará de forma:</p>\n<p>·       Individual.</p>\n<p>·       En parejas.</p>\n<p>·       En pequeños grupos.</p>\n<p>·       En grupos heterogéneos.</p>\n<p>Los agrupamientos heterogéneos permitirán que los estudiantes colaboren entre sí, compartan conocimientos y se apoyen durante las actividades prácticas y experimentales. Además, se asignarán diferentes responsabilidades dentro de los equipos para favorecer la participación de todos.</p>\n<p>Aplicación de los principios del Diseño Universal para el Aprendizaje (DUA)</p>\n<p>Se aplicarán los principios del Diseño Universal para el Aprendizaje con el propósito de ofrecer diferentes formas de presentar la información, participar en las actividades y demostrar los aprendizajes alcanzados.</p>\n<p>Para ello se considerarán:</p>\n<p>Múltiples formas de representación:</p>\n<p>Los contenidos se presentarán mediante explicaciones orales, imágenes, esquemas, videos, ejemplos cotidianos y demostraciones experimentales, permitiendo que los estudiantes accedan a la información de diferentes maneras.</p>\n<p>Múltiples formas de acción y expresión:</p>\n<p>Los estudiantes podrán demostrar lo aprendido mediante respuestas orales y escritas, dibujos, mapas conceptuales, experimentos, exposiciones y explicaciones de fenómenos relacionados con las propiedades de la luz.</p>\n<p>Múltiples formas de implicación:</p>\n<p>Se promoverá la participación, el trabajo colaborativo, la experimentación y la relación de los contenidos con situaciones de la vida cotidiana, buscando despertar el interés y la motivación de los estudiantes.</p>\n<p>De esta manera, la atención a la diversidad permitirá que todos los estudiantes tengan oportunidades de participar, aprender y demostrar sus conocimientos, respetando sus diferentes características, ritmos y necesidades de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvg4dehn-pt41kx6y1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Conclusión </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conclusión </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvg4dehn-pt41kx6y1</odePageId>
+      <odeBlockId>block-mvg4dh9w-b2qs213bm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvg4dehn-pt41kx6y1</odePageId>
+          <odeBlockId>block-mvg4dh9w-b2qs213bm</odeBlockId>
+          <odeIdeviceId>idevice-1792466668722-v0rworu2z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> En la presente investigación, se logró identificar la importancia de fortalecer la comprensión del contenido Propiedades de la luz, correspondiente a la Unidad III: Óptica Geométrica, debido a las dificultades que presentan los estudiantes para comprender y explicar fenómenos relacionados. Los resultados obtenidos mediante el diagnóstico evidenciaron que 5 de los 6 estudiantes encuestados, equivalente al 83.3 %, manifestaron dificultades para comprender la Óptica Geométrica, lo que permitió reconocer la necesidad de implementar alternativas didácticas que relacionen los conocimientos teóricos con experiencias concretas y situaciones de la vida cotidiana.</p>
+<p>En correspondencia con esta necesidad, se propuso una estrategia didáctica basada en la experimentación mediante actividades prácticas y ejemplos de la vida cotidiana, orientada a favorecer una comprensión más dinámica, participativa y significativa de las propiedades de la luz. Asimismo, se diseñó una unidad didáctica que permitió integrar de manera organizada objetivos, contenidos conceptuales, procedimentales y actitudinales, actividades prácticas, recursos didácticos, estrategias metodológicas y procesos de evaluación. </p>
+<p>Finalmente, la incorporación de recursos tecnológicos, particularmente la herramienta digital Kahoot, complementa las actividades experimentales al favorecer la participación, la interacción y la comprobación de los aprendizajes alcanzados. Su utilización se plantea como un recurso de apoyo para reforzar los contenidos y proporcionar retroalimentación, sin sustituir la experimentación directa. De esta forma, se integran recursos tradicionales, materiales manipulativos y herramientas tecnológicas dentro de una propuesta contextualizada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792466668722-v0rworu2z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> En la presente investigación, se logró identificar la importancia de fortalecer la comprensión del contenido Propiedades de la luz, correspondiente a la Unidad III: Óptica Geométrica, debido a las dificultades que presentan los estudiantes para comprender y explicar fenómenos relacionados. Los resultados obtenidos mediante el diagnóstico evidenciaron que 5 de los 6 estudiantes encuestados, equivalente al 83.3 %, manifestaron dificultades para comprender la Óptica Geométrica, lo que permitió reconocer la necesidad de implementar alternativas didácticas que relacionen los conocimientos teóricos con experiencias concretas y situaciones de la vida cotidiana.</p>\n<p>En correspondencia con esta necesidad, se propuso una estrategia didáctica basada en la experimentación mediante actividades prácticas y ejemplos de la vida cotidiana, orientada a favorecer una comprensión más dinámica, participativa y significativa de las propiedades de la luz. Asimismo, se diseñó una unidad didáctica que permitió integrar de manera organizada objetivos, contenidos conceptuales, procedimentales y actitudinales, actividades prácticas, recursos didácticos, estrategias metodológicas y procesos de evaluación. </p>\n<p>Finalmente, la incorporación de recursos tecnológicos, particularmente la herramienta digital Kahoot, complementa las actividades experimentales al favorecer la participación, la interacción y la comprobación de los aprendizajes alcanzados. Su utilización se plantea como un recurso de apoyo para reforzar los contenidos y proporcionar retroalimentación, sin sustituir la experimentación directa. De esta forma, se integran recursos tradicionales, materiales manipulativos y herramientas tecnológicas dentro de una propuesta contextualizada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
